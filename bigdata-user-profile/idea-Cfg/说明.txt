@@ -1,3 +1,3 @@
 idea工具
-WeidMonokai-Colors.icls    为字体及颜色风格
+WeidMonokai-Colors.icls    为字体及颜色风格，把这个文件放在: C:\Users\你的用户名\.IntelliJIdea13\config\colors 文件夹下 2.重启Intellij IDEA设置 File->Settings->Editor->Colors & Fonts: 选择WeidMonkai
 codetemplates.xml          为代码格式需要安装eclipseformatter插件，安装后重启选Eclipse code formatter
